@@ -3,5 +3,6 @@ Experiment
 
 This is an experiment.
 
-## Sample
+Sample
+------
 This is another paragraph.
